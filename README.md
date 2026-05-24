@@ -1,0 +1,1 @@
+# KQL-and-MS-Sentinel-SOC-Lab
