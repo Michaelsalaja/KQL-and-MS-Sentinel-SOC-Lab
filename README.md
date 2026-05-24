@@ -138,7 +138,7 @@ Heartbeat
 | order by AggregatedHeartbeatCount desc
 | take 10
 
-![image alt](https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/blob/2f5568525087af2a05e4b3ad105e9006767427a6/Figure%205%20-%20KQL%20Query.png)
+![image alt](https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/blob/4cd43fbd122f24fcdad3eda1da481ecc091b3d75/Figure%205%20-%20KQL%20Query.png)
 
 Figure 5: KQL Query
 
@@ -230,13 +230,18 @@ Expressions are combinations of values, functions, operators, and table names th
 Figure 8: KQL Query
 
 
+
 ![image alt](https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/blob/c9ce1a6e3189dbf4f675c4324caa0cc2b3bc9bd3/Figure%209%20-%20KQL%20Query%20table.png)
 
+
+
 Figure 9: KQL Query table
+
 
 ![image alt](https://github.com/Michaelsalaja/KQL-and-MS-Sentinel-SOC-Lab/blob/c9ce1a6e3189dbf4f675c4324caa0cc2b3bc9bd3/Figure%2010%20-%20KQL%20Query%20table.png)
 
 Figure 10: KQL Query table
+
 
 
 # Explanation
