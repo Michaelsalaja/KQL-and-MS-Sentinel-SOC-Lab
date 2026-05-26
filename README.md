@@ -647,7 +647,7 @@ Answer: SecurityEvent
 
 Analyze the example query from the task. What does the query aggregate per computer?
 
-* Answer: Filtered events
+* Answer: EventCount
 
 # KQL Use cases
 Now that I have gotten clear insights into understanding the concept and structure of KQL queries, I intend to explore real-world scenarios to see how KQL can support me as a security analyst, in gaining deeper insights into security logs.
@@ -730,7 +730,7 @@ Answer: failed login attempts
 
 * Which operator was used on the second query to streamline our search to a range of user accounts from the Answer: TargetUserName column?
 
-Answer: TargetUserName
+Answer: Contains
 
 # Summary
 
