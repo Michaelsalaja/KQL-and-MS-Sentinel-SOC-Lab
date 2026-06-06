@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This lab focuses on creating a walkthrough for understanding the power of Kusto “KQL integration with MS Sentinel. The room introduces learners to the analysis of security logs with Microsoft Sentinel KQl. As a security engineers, we think of security logs as treasures because they can help us discover the hidden activities within our infrastructure. Microsoft Sentinel is a cloud native Security information and Event Management (SIEM) product that utilizes ingested logs to provide better visibility into your environment. On the other hand, Kusto Query Language (KQL) is the tool used to proactively reveal the hidden secrets within those logs if you are the curious and hands-on-type.
+This lab focuses on creating a walkthrough for understanding the power of Kusto Query Language (KQL) integration with MS Sentinel. The room introduces learners to the analysis of security logs with Microsoft Sentinel KQl. As security analysts and engineers, we think of security logs as treasures because they can help us discover the hidden activities within our infrastructure. Microsoft Sentinel is a cloud native Security information and Event Management (SIEM) product that utilizes ingested logs to provide better visibility into your environment. On the other hand, Kusto Query Language (KQL) is the tool used to proactively reveal the hidden secrets within those logs if you are the curious and hands-on-type.
 
 Imagine been able to:
 
